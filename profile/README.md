@@ -1,8 +1,9 @@
 
-# <p align = center> 🧑‍💻👩‍💻 Intelliview 🧑‍💻👩‍💻 <p>
-### <p align = center>  2024 한국공학대전 우수상 수상  <br> &nbsp;&nbsp;&nbsp;&nbsp;<img width=40%, height=25%, margin=0, src="https://github.com/user-attachments/assets/fa618082-0629-4c78-9f9e-81a5318fd0a2"><br> &nbsp;&nbsp;&nbsp;🖥️ AI 면접관과 함께하는 화상 모의면접 서비스 🖥️ <p> 
+# <p align = center> 2025 한국공학대전 우수상 <p>
+### <p align = center> &nbsp;&nbsp;&nbsp;&nbsp; <br><img width=40%, height=25%, marginTop=10, src="./IntelliView.svg"><br><br><br> &nbsp;&nbsp;&nbsp;🖥️ AI 면접관과 함께하는 모의면접 서비스 🖥️ <p> 
 ##### <p align = center> URL : https://forest-of-thoughts.site <p>
 <br>
+
 
 ## 📌 Table of Contents
 - [Medium](#-Medium)
@@ -168,223 +169,107 @@ yarn dev
   <summary><b>Frontend</b></summary>
    <pre>
     <code>
-      📦Frontend  
-      ┣ 📂.github  
-      ┣ 📂dist
-      ┃  ┣ 📂assets
-      ┃  ┃  ┣ 📜backgroundBaek-BpeExazP.svg
-      ┃  ┃  ┣ 📜backgroundGreen-Bnbts40_.svg
-      ┃  ┃  ┣ 📜backgroundOh-1gcBrXJE.svg
-      ┃  ┃  ┣ 📜backgroundShin-CcjkscEZ.svg
-      ┃  ┃  ┣ 📜Baek-COCTo-04.svg
-      ┃  ┃  ┣ 📜baek_mentorChatBubble-DijFPC_6.svg
-      ┃  ┃  ┣ 📜bakcgroundMusic2-UhNMuIBI.mp3
-      ┃  ┃  ┣ 📜button_pressed-CzxTsqlN.mp3
-      ┃  ┃  ┣ 📜CardBaek-DrBdoS2g.svg
-      ┃  ┃  ┣ 📜CharBaek-HZRdnelM.svg
-      ┃  ┃  ┣ 📜CharOh-CEkf53wz.svg
-      ┃  ┃  ┣ 📜CharShin-BPbn4s-a.svg
-      ┃  ┃  ┣ 📜chatbubble-DYku0HZm.png
-      ┃  ┃  ┣ 📜choose-UyHchCCZ.mp3
-      ┃  ┃  ┣ 📜ChoosingButtonBaek-CjLdFOGc.svg
-      ┃  ┃  ┣ 📜ChoosingButtonOh-CAJzv0hE.svg
-      ┃  ┃  ┣ 📜click_effect-CrkPjc3w.mp3
-      ┃  ┃  ┣ 📜flipcard-C-SIaE8h.mp3
-      ┃  ┃  ┣ 📜fromBaek-DT0BLmko.svg
-      ┃  ┃  ┣ 📜fromOh-DO2UuJGk.svg
-      ┃  ┃  ┣ 📜fromShin-B6bB3TrY.svg
-      ┃  ┃  ┣ 📜groupLogo-UiVsXh0O.svg
-      ┃  ┃  ┣ 📜IconLetter-Bf5kXeAo.svg
-      ┃  ┃  ┣ 📜IconMouse-Den-z3Fg.svg
-      ┃  ┃  ┣ 📜IconToHome-BBGs1vYo.svg
-      ┃  ┃  ┣ 📜index-Cj_By1DR.js
-      ┃  ┃  ┣ 📜index-DayvVuVL.css
-      ┃  ┃  ┣ 📜mobile_prescriptionimg-C3exaAV2.svg
-      ┃  ┃  ┣ 📜MoonFlower-BpPDa5mm.ttf
-      ┃  ┃  ┣ 📜mouse-DWajUTj1.mp3
-      ┃  ┃  ┣ 📜MyPageBackground-DekmgsB7.svg
-      ┃  ┃  ┣ 📜NoticiaText-Dxyt17E8.ttf
-      ┃  ┃  ┣ 📜oh-BzLDIxT2.svg
-      ┃  ┃  ┣ 📜oh_mentorChatBubble-7h2WrPM4.svg
-      ┃  ┃  ┣ 📜PostBox-DZ6XiAZk.svg
-      ┃  ┃  ┣ 📜PostOffice-B9Fm3m3d.mp3
-      ┃  ┃  ┣ 📜prescriptionimg-CO1W0rsR.svg
-      ┃  ┃  ┣ 📜ProfileBackBaek-BDgtaFl5.svg
-      ┃  ┃  ┣ 📜ProfileBackOh-DHArOrGF.svg
-      ┃  ┃  ┣ 📜ProfileBackShin-UicqqSC4.svg
-      ┃  ┃  ┣ 📜redButtonBaek-BRTcfWeM.svg
-      ┃  ┃  ┣ 📜redButtonOh-C7l3dlAU.svg
-      ┃  ┃  ┣ 📜redButtonShin-YJdHy-Ah.svg
-      ┃  ┃  ┣ 📜shin-Dkk0NJtx.svg
-      ┃  ┃  ┣ 📜shin_mentorChatBubble-DWAYkhJ7.svg
-      ┃  ┃  ┗ 📜syndinaroo-Bs3PV56G.ttf
-      ┃  ┗ 📜index.html 
-      ┣ 📂src
-      ┃   ┣ 📂api
-      ┃   ┃ ┗ 📜.gitkeep
-      ┃   ┣ 📂assets
-      ┃   ┃ ┣ 📂audios
-      ┃   ┃ ┃ ┣ 📜bakcgroundMusic2.mp3
-      ┃   ┃ ┃ ┣ 📜button.mp3
-      ┃   ┃ ┃ ┣ 📜button_pressed.mp3
-      ┃   ┃ ┃ ┣ 📜choose.mp3
-      ┃   ┃ ┃ ┣ 📜click_effect.mp3
-      ┃   ┃ ┃ ┣ 📜flipcard.mp3
-      ┃   ┃ ┃ ┣ 📜mainMusic.mp3
-      ┃   ┃ ┃ ┣ 📜mouse.mp3
-      ┃   ┃ ┃ ┣ 📜PostOffice.mp3
-      ┃   ┃ ┃ ┣ 📜prescriptionPageAudio.mp3
-      ┃   ┃ ┃ ┣ 📜toy_button.mp3
-      ┃   ┃ ┃ ┗ 📜ui_click.mp3
-      ┃   ┃ ┣ 📂fonts
-      ┃   ┃ ┃ ┣ 📜MoonFlower.ttf
-      ┃   ┃ ┃ ┣ 📜NoticiaText.ttf
-      ┃   ┃ ┃ ┗ 📜syndinaroo.ttf
-      ┃   ┃ ┗ 📂images
-      ┃   ┃ ┃ ┣ 📜.gitkeep
-      ┃   ┃ ┃ ┣ 📜404.svg
-      ┃   ┃ ┃ ┣ 📜AllLetter.svg
-      ┃   ┃ ┃ ┣ 📜backgroundBaek.svg
-      ┃   ┃ ┃ ┣ 📜backgroundBeach.svg
-      ┃   ┃ ┃ ┣ 📜backgroundForest.svg
-      ┃   ┃ ┃ ┣ 📜backgroundGreen.svg
-      ┃   ┃ ┃ ┣ 📜BackgroundMentorPage.svg
-      ┃   ┃ ┃ ┣ 📜backgroundOh.svg
-      ┃   ┃ ┃ ┣ 📜backgroundShin.svg
-      ┃   ┃ ┃ ┣ 📜Baek.svg
-      ┃   ┃ ┃ ┣ 📜baek_mentorChatBubble.svg
-      ┃   ┃ ┃ ┣ 📜CardBaek.svg
-      ┃   ┃ ┃ ┣ 📜CardOh.svg
-      ┃   ┃ ┃ ┣ 📜CardShin.svg
-      ┃   ┃ ┃ ┣ 📜CharBaek.svg
-      ┃   ┃ ┃ ┣ 📜CharOh.svg
-      ┃   ┃ ┃ ┣ 📜CharShin.svg
-      ┃   ┃ ┃ ┣ 📜chatbubble.png
-      ┃   ┃ ┃ ┣ 📜ChoosingButtonBaek.svg
-      ┃   ┃ ┃ ┣ 📜ChoosingButtonOh.svg
-      ┃   ┃ ┃ ┣ 📜ChoosingButtonShin.svg
-      ┃   ┃ ┃ ┣ 📜eveningSky.svg
-      ┃   ┃ ┃ ┣ 📜fromBaek.svg
-      ┃   ┃ ┃ ┣ 📜fromOh.svg
-      ┃   ┃ ┃ ┣ 📜fromShin.svg
-      ┃   ┃ ┃ ┣ 📜groupLogo.svg
-      ┃   ┃ ┃ ┣ 📜IconLetter.svg
-      ┃   ┃ ┃ ┣ 📜IconMouse.svg
-      ┃   ┃ ┃ ┣ 📜IconToHome.svg
-      ┃   ┃ ┃ ┣ 📜IconToMyPage.svg
-      ┃   ┃ ┃ ┣ 📜leaf.svg
-      ┃   ┃ ┃ ┣ 📜leftArrow.svg
-      ┃   ┃ ┃ ┣ 📜loading.png
-      ┃   ┃ ┃ ┣ 📜mail.svg
-      ┃   ┃ ┃ ┣ 📜mailback.svg
-      ┃   ┃ ┃ ┣ 📜mailfront.svg
-      ┃   ┃ ┃ ┣ 📜mobile_prescriptionimg.svg
-      ┃   ┃ ┃ ┣ 📜mousePointer.svg
-      ┃   ┃ ┃ ┣ 📜mud.jpg
-      ┃   ┃ ┃ ┣ 📜MyPageBackground.svg
-      ┃   ┃ ┃ ┣ 📜oh.svg
-      ┃   ┃ ┃ ┣ 📜oh_mentorChatBubble.svg
-      ┃   ┃ ┃ ┣ 📜PostBox.svg
-      ┃   ┃ ┃ ┣ 📜prescriptionimg.svg
-      ┃   ┃ ┃ ┣ 📜ProfileBackBaek.svg
-      ┃   ┃ ┃ ┣ 📜ProfileBackOh.svg
-      ┃   ┃ ┃ ┣ 📜ProfileBackShin.svg
-      ┃   ┃ ┃ ┣ 📜ProfileFrontBaek.svg
-      ┃   ┃ ┃ ┣ 📜ProfileFrontOh.svg
-      ┃   ┃ ┃ ┣ 📜ProfileFrontShin.svg
-      ┃   ┃ ┃ ┣ 📜Racoon.svg
-      ┃   ┃ ┃ ┣ 📜RectIntro.svg
-      ┃   ┃ ┃ ┣ 📜redButtonAll.svg
-      ┃   ┃ ┃ ┣ 📜redButtonBaek.svg
-      ┃   ┃ ┃ ┣ 📜redButtonOh.svg
-      ┃   ┃ ┃ ┣ 📜redButtonShin.svg
-      ┃   ┃ ┃ ┣ 📜rightArrow.svg
-      ┃   ┃ ┃ ┣ 📜scrollMessage.svg
-      ┃   ┃ ┃ ┣ 📜shin.svg
-      ┃   ┃ ┃ ┣ 📜shin_mentorChatBubble.svg
-      ┃   ┃ ┃ ┣ 📜welcomeBackground.svg
-      ┃   ┃ ┃ ┣ 📜welcomeLogo.svg
-      ┃   ┃ ┃ ┗ 📜yellowDog.svg
-      ┃   ┣ 📂components
-      ┃   ┃ ┣ 📂chat
-      ┃   ┃ ┃ ┣ 📜ChatContainer.tsx
-      ┃   ┃ ┃ ┣ 📜ChatInput.tsx
-      ┃   ┃ ┃ ┣ 📜MentorChatBubble.tsx
-      ┃   ┃ ┃ ┗ 📜MyChatBubble.tsx
-      ┃   ┃ ┣ 📂FirstPage
-      ┃   ┃ ┃ ┣ 📜Button.tsx
-      ┃   ┃ ┃ ┣ 📜CharIntro1.css
-      ┃   ┃ ┃ ┣ 📜CharIntro1.tsx
-      ┃   ┃ ┃ ┣ 📜CharIntro2.css
-      ┃   ┃ ┃ ┣ 📜CharIntro2.tsx
-      ┃   ┃ ┃ ┣ 📜EveningSky.css
-      ┃   ┃ ┃ ┣ 📜EveningSky.tsx
-      ┃   ┃ ┃ ┣ 📜Input.tsx
-      ┃   ┃ ┃ ┣ 📜LoginPage.css
-      ┃   ┃ ┃ ┣ 📜LoginPage.tsx
-      ┃   ┃ ┃ ┣ 📜StartButton.tsx
-      ┃   ┃ ┃ ┣ 📜WelcomePage.css
-      ┃   ┃ ┃ ┗ 📜WelcomePage.tsx
-      ┃   ┃ ┣ 📂MentorChatBubble
-      ┃   ┃ ┃ ┣ 📜CharacterImage.tsx
-      ┃   ┃ ┃ ┣ 📜ChatBubble.tsx
-      ┃   ┃ ┃ ┣ 📜ChatMessage.tsx
-      ┃   ┃ ┃ ┗ 📜MentorName.tsx
-      ┃   ┃ ┣ 📂MyChatBubble
-      ┃   ┃ ┃ ┣ 📜MyChatBubble.tsx
-      ┃   ┃ ┃ ┣ 📜MyChatMessage.tsx
-      ┃   ┃ ┃ ┗ 📜MyName.tsx
-      ┃   ┃ ┣ 📂PostText
-      ┃   ┃ ┃ ┣ 📜HightlightText.tsx
-      ┃   ┃ ┃ ┗ 📜ImageWithText.tsx
-      ┃   ┃ ┣ 📜.gitkeep
-      ┃   ┃ ┣ 📜CustomCursor.tsx
-      ┃   ┃ ┗ 📜LoadingModal.tsx
-      ┃   ┣ 📂hooks
-      ┃   ┃ ┗ 📜.gitkeep
-      ┃   ┣ 📂pages
-      ┃   ┃ ┣ 📂ChattingPage
-      ┃   ┃ ┃ ┣ 📜ChattingPage_Baek.tsx
-      ┃   ┃ ┃ ┣ 📜ChattingPage_Oh.tsx
-      ┃   ┃ ┃ ┗ 📜ChattingPage_Shin.tsx
-      ┃   ┃ ┣ 📜FirstPage.tsx
-      ┃   ┃ ┣ 📜MentorPage.tsx
-      ┃   ┃ ┣ 📜Mobile_MyPage.tsx
-      ┃   ┃ ┣ 📜Mobile_PrescriptionPage.tsx
-      ┃   ┃ ┣ 📜MyPage.tsx
-      ┃   ┃ ┣ 📜NotFoundPage.tsx
-      ┃   ┃ ┗ 📜PrescriptionPage.tsx
-      ┃   ┣ 📂store
-      ┃   ┃ ┗ 📜store.ts
-      ┃   ┣ 📂utils
-      ┃   ┃ ┗ 📜.gitkeep
-      ┃   ┣ 📜App.css
-      ┃   ┣ 📜App.tsx
-      ┃   ┣ 📜index.css
-      ┃   ┣ 📜main.tsx
-      ┃   ┣ 📜theme.ts
-      ┃   ┣ 📜ThemeContext.tsx
-      ┃   ┗ 📜vite-env.d.ts
-      ┣ 📜.DS_Store
-      ┣ 📜.env
-      ┣ 📜.env.development
-      ┣ 📜.env.local
-      ┣ 📜.env.production
-      ┣ 📜.env.test
-      ┣ 📜.gitignore
-      ┣ 📜index.html
-      ┣ 📜leaf_favicon.ico
-      ┣ 📜package-lock.json
-      ┣ 📜package.json
-      ┣ 📜postcss.config.js
-      ┣ 📜README.md
-      ┣ 📜store.ts
-      ┣ 📜tailwind.config.js
-      ┣ 📜tsconfig.app.json
-      ┣ 📜tsconfig.json
-      ┣ 📜tsconfig.node.json
-      ┣ 📜vite.config.ts
-      ┗ 📜yarn.lock 
+    📦Frontend
+    ┗ 📂my-project
+       ┣ 📂public
+       ┃  ┣ 📜favicon.ico
+       ┃  ┗ 📜Interviewer.png
+       ┣ 📂src
+       ┃  ┣ 📂api
+       ┃  ┃  ┣ 📜axiosInstance.ts
+       ┃  ┃  ┣ 📜resultAPI.ts
+       ┃  ┃  ┣ 📜resumeAPI.ts
+       ┃  ┃  ┗ 📜signupAPI.ts
+       ┃  ┣ 📂assets
+       ┃  ┃  ┣ 📜book.svg
+       ┃  ┃  ┣ 📜face1.png
+       ┃  ┃  ┣ 📜face2.png
+       ┃  ┃  ┣ 📜face3.png
+       ┃  ┃  ┣ 📜face4.png
+       ┃  ┃  ┣ 📜face5.png
+       ┃  ┃  ┣ 📜flyingBusinessman.svg
+       ┃  ┃  ┣ 📜flyingBusinesswoman.svg
+       ┃  ┃  ┣ 📜InterviewerVideo.mp4
+       ┃  ┃  ┣ 📜interviewVideo_song.webm
+       ┃  ┃  ┣ 📜KoreanInterviewerVideo.mp4
+       ┃  ┃  ┣ 📜Man.svg
+       ┃  ┃  ┣ 📜Record.svg
+       ┃  ┃  ┗ 📜Robot.svg
+       ┃  ┣ 📂components
+       ┃  ┃  ┣ 📂headers
+       ┃  ┃  ┃  ┣ 📜header.tsx
+       ┃  ┃  ┃  ┗ 📜InterviewHeader.tsx
+       ┃  ┃  ┣ 📂modals
+       ┃  ┃  ┃  ┣ 📜LoginModal.tsx
+       ┃  ┃  ┃  ┣ 📜Modal.tsx
+       ┃  ┃  ┃  ┣ 📜ResumeManageModal.tsx
+       ┃  ┃  ┃  ┣ 📜ResumeUploadModal.tsx
+       ┃  ┃  ┃  ┣ 📜ResumeUploadModal2.tsx
+       ┃  ┃  ┃  ┗ 📜SignupModal.tsx
+       ┃  ┃  ┣ 📂reports
+       ┃  ┃  ┃  ┣ 📜BehaviorReport_design.tsx
+       ┃  ┃  ┃  ┣ 📜BehaviorReport.tsx
+       ┃  ┃  ┃  ┣ 📜ComprehensiveReport_design.tsx
+       ┃  ┃  ┃  ┣ 📜ComprehensiveReport.tsx
+       ┃  ┃  ┃  ┣ 📜QuestionReport_design.tsx
+       ┃  ┃  ┃  ┣ 📜QuestionReport.tsx
+       ┃  ┃  ┃  ┗ 📜RadarChart.tsx
+       ┃  ┃  ┣ 📜ReplyButton.tsx
+       ┃  ┃  ┣ 📜StartPageContent.tsx
+       ┃  ┃  ┣ 📜VirtualInterviewer.tsx
+       ┃  ┃  ┗ 📜WebcamFeed.tsx
+       ┃  ┣ 📂css
+       ┃  ┃  ┗ 📜modal.css
+       ┃  ┣ 📂hooks
+       ┃  ┃  ┣ 📜useAudioRecorder.ts
+       ┃  ┃  ┣ 📜useLogin.ts
+       ┃  ┃  ┣ 📜useLoginMutation.ts
+       ┃  ┃  ┣ 📜useNavigation.ts
+       ┃  ┃  ┣ 📜useResumeUpload.ts
+       ┃  ┃  ┣ 📜useSignup.ts
+       ┃  ┃  ┣ 📜useStartPage.ts
+       ┃  ┃  ┣ 📜useTimer.ts
+       ┃  ┃  ┣ 📜useToQAItems copy.ts
+       ┃  ┃  ┣ 📜useToQAItems.ts
+       ┃  ┃  ┣ 📜useUploadInterviewVideo.ts
+       ┃  ┃  ┣ 📜useVideoRecorder.ts
+       ┃  ┃  ┗ 📜useWebSocket.ts
+       ┃  ┣ 📂pages
+       ┃  ┃  ┣ 📜ArchivedReportPage.tsx
+       ┃  ┃  ┣ 📜DesignPage.tsx
+       ┃  ┃  ┣ 📜InterviewPage.tsx
+       ┃  ┃  ┣ 📜MyPage.tsx
+       ┃  ┃  ┣ 📜ReportPage.tsx
+       ┃  ┃  ┗ 📜StartPage.tsx
+       ┃  ┣ 📂store
+       ┃  ┃  ┣ 📜authStore.ts
+       ┃  ┃  ┗ 📜useInterviewStore.ts
+       ┃  ┣ 📂stories
+       ┃  ┃  ┣ 📜button.css
+       ┃  ┃  ┣ 📜Button.stories.ts
+       ┃  ┃  ┣ 📜Button.tsx
+       ┃  ┃  ┣ 📜Configure.mdx
+       ┃  ┃  ┣ 📜header.css
+       ┃  ┃  ┣ 📜Header.stories.ts
+       ┃  ┃  ┣ 📜Header.tsx
+       ┃  ┃  ┣ 📜page.css
+       ┃  ┃  ┣ 📜Page.stories.ts
+       ┃  ┃  ┗ 📜Page.tsx
+       ┃  ┣ 📂utils
+       ┃  ┃  ┗ 📜constants.ts
+       ┃  ┣ 📜App.css
+       ┃  ┣ 📜App.tsx
+       ┃  ┣ 📜index.css
+       ┃  ┣ 📜main.tsx
+       ┃  ┗ 📜vite-env.d.ts
+       ┣ 📜eslint.config.js
+       ┣ 📜index.html
+       ┣ 📜package.json
+       ┣ 📜postcss.config.js
+       ┣ 📜README.md
+       ┣ 📜tailwind.config.js
+       ┣ 📜tsconfig.json
+       ┗ 📜vite.config.ts
     </code>
   </pre>
 </details>
@@ -395,92 +280,67 @@ yarn dev
   <pre>
     <code>
       📦Backend
-      ┣ 📂.github
-      ┣ 📂alertmanager
-      ┃   ┣ 📂tmp
-      ┃   ┣ 📜alertmanager.yml.tmpl
-      ┃   ┗ 📜entrypoint.sh
-      ┣ 📂app
-      ┃  ┣ 📂crud
-      ┃  ┃ ┣ 📂__pycache__
-      ┃  ┃ ┃  ┣ 📜chat.cpython-312.pyc
-      ┃  ┃ ┃  ┣ 📜chatroom.cpython-312.pyc
-      ┃  ┃ ┃  ┣ 📜mentor.cpython-312.pyc
-      ┃  ┃ ┃  ┣ 📜prescription.cpython-312.pyc
-      ┃  ┃ ┃  ┗ 📜user.cpython-312.pyc
-      ┃  ┃ ┣ 📜chat.py
-      ┃  ┃ ┣ 📜chatroom.py
-      ┃  ┃ ┣ 📜mentor.py
-      ┃  ┃ ┣ 📜prescription.py
-      ┃  ┃ ┗ 📜user.py
-      ┃  ┣ 📂routers
-      ┃  ┃ ┣ 📂__pycache__
-      ┃  ┃ ┃ ┣ 📜chat.cpython-312.pyc
-      ┃  ┃ ┃ ┣ 📜chatroom.cpython-312.pyc
-      ┃  ┃ ┃ ┣ 📜mentor.cpython-312.pyc
-      ┃  ┃ ┃ ┣ 📜prescription.cpython-312.pyc
-      ┃  ┃ ┃ ┣ 📜root.cpython-312.pyc
-      ┃  ┃ ┃ ┗ 📜user.cpython-312.pyc
-      ┃  ┃ ┣ 📜chat.py
-      ┃  ┃ ┣ 📜chatroom.py
-      ┃  ┃ ┣ 📜mentor.py
-      ┃  ┃ ┣ 📜prescription.py
-      ┃  ┃ ┣ 📜root.py
-      ┃  ┃ ┗ 📜user.py
-      ┃  ┣ 📂templates
-      ┃  ┃ ┗ 📜index.html
-      ┃  ┣ 📂tests
-      ┃  ┃ ┣ 📜conftest.py
-      ┃  ┃ ┣ 📜test_api_chatroom.py
-      ┃  ┃ ┣ 📜test_api_mentor.py
-      ┃  ┃ ┣ 📜test_api_prescription.py
-      ┃  ┃ ┣ 📜test_api_user.py
-      ┃  ┃ ┣ 📜test_crud_chat.py
-      ┃  ┃ ┣ 📜test_crud_chatroom.py
-      ┃  ┃ ┣ 📜test_crud_mentor.py
-      ┃  ┃ ┣ 📜test_crud_prescription.py
-      ┃  ┃ ┣ 📜test_crud_user.py
-      ┃  ┃ ┣ 📜test_router_chatroom.py
-      ┃  ┃ ┣ 📜test_router_mentor.py
-      ┃  ┃ ┣ 📜test_router_prescription.py
-      ┃  ┃ ┗ 📜test_router_user.py
-      ┃  ┣ 📂utils
-      ┃  ┃ ┣ 📂__pycache__
-      ┃  ┃ ┃ ┣ 📜celery_worker.cpython-312.pyc
-      ┃  ┃ ┃ ┣ 📜gpt.cpython-312.pyc
-      ┃  ┃ ┃ ┗ 📜opensearch.cpython-312.pyc
-      ┃  ┃ ┣ 📜celery_worker.py
-      ┃  ┃ ┣ 📜gpt.py
-      ┃  ┃ ┗ 📜opensearch.py
-      ┃  ┣ 📂__pycache__
-      ┃  ┃ ┣ 📜database.cpython-312.pyc
-      ┃  ┃ ┣ 📜formatter.cpython-312.pyc
-      ┃  ┃ ┣ 📜log_config.cpython-312.pyc
-      ┃  ┃ ┣ 📜main.cpython-312.pyc
-      ┃  ┃ ┣ 📜models.cpython-312.pyc
-      ┃  ┃ ┗ 📜schemas.cpython-312.pyc
-      ┃  ┣ 📜database.py
-      ┃  ┣ 📜formatter.py
-      ┃  ┣ 📜log.ini
-      ┃  ┣ 📜log_config.py
-      ┃  ┣ 📜main.py
+      ┣ 📂apps
+      ┃  ┣ 📜__init__.py
+      ┃  ┣ 📜asgi.py
+      ┃  ┣ 📜celery.py
+      ┃  ┣ 📜settings.py
+      ┃  ┣ 📜urls.py
+      ┃  ┗ 📜wsgi.py
+      ┣ 📂interview
+      ┃  ┣ 📂migrations
+      ┃  ┃  ┗ 📜__init__.py
+      ┃  ┣ 📜__init__.py
+      ┃  ┣ 📜admin.py
+      ┃  ┣ 📜apps.py
+      ┃  ┣ 📜consumers.py
       ┃  ┣ 📜models.py
-      ┃  ┣ 📜schemas.py
-      ┃  ┗ 📜__init__.py 
-      ┣ 📂prometheus
-      ┃  ┣ 📂alert-rules.yml
-      ┃  ┣ 📂prometheus.yml
-      ┣ 📜.gitignore
-      ┣ 📜Dockerfile
-      ┣ 📜Dockerfile.flower
-      ┣ 📜Dockerfile.worker
-      ┣ 📜README.md
-      ┣ 📜docker-compose.prod.yml
+      ┃  ┣ 📜routing.py
+      ┃  ┣ 📜serializers.py
+      ┃  ┣ 📜tasks.py
+      ┃  ┣ 📜tests.py
+      ┃  ┣ 📜urls.py
+      ┃  ┣ 📜utils.py
+      ┃  ┗ 📜views.py
+      ┣ 📂result
+      ┃  ┣ 📂migrations
+      ┃  ┃  ┗ 📜__init__.py
+      ┃  ┣ 📜__init__.py
+      ┃  ┣ 📜admin.py
+      ┃  ┣ 📜apps.py
+      ┃  ┣ 📜models.py
+      ┃  ┣ 📜serializers.py
+      ┃  ┣ 📜tests.py
+      ┃  ┣ 📜urls.py
+      ┃  ┗ 📜views.py
+      ┣ 📂resume
+      ┃  ┣ 📂migrations
+      ┃  ┃  ┗ 📜__init__.py
+      ┃  ┣ 📜__init__.py
+      ┃  ┣ 📜admin.py
+      ┃  ┣ 📜apps.py
+      ┃  ┣ 📜models.py
+      ┃  ┣ 📜serializers.py
+      ┃  ┣ 📜tests.py
+      ┃  ┣ 📜urls.py
+      ┃  ┗ 📜views.py
+      ┣ 📂user
+      ┃  ┣ 📂migrations
+      ┃  ┃  ┗ 📜__init__.py
+      ┃  ┣ 📜__init__.py
+      ┃  ┣ 📜admin.py
+      ┃  ┣ 📜apps.py
+      ┃  ┣ 📜authentication.py
+      ┃  ┣ 📜backends.py
+      ┃  ┣ 📜models.py
+      ┃  ┣ 📜serializers.py
+      ┃  ┣ 📜tests.py
+      ┃  ┣ 📜urls.py
+      ┃  ┗ 📜views.py
       ┣ 📜docker-compose.yml
-      ┣ 📜nginx.conf
-      ┣ 📜requirements.txt
-      ┣ 📜requirements.worker.txt
-      ┗ 📜run_prod.sh
+      ┣ 📜Dockerfile
+      ┣ 📜manage.py
+      ┗ 📜requirements.txt
     </code>
   </pre>
 </details>
