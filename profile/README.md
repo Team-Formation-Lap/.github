@@ -111,7 +111,7 @@
 ## 🧑‍💻 How to Start
 ### Backend 
 ```
-$ git clone https://github.com/2024-Summer-Bootcamp-TeamJ/Backend.git
+$ git clone https://github.com/Team-Formation-Lap/Backend.git
 ```
 ### env setting in the Backend folder
 * Backend/.env
@@ -128,17 +128,6 @@ CELERY_BROKER_URL=
 OPENAI_API_KEY=
 GPT_MODEL=
 
-# AWS OpenSearch
-OPENSEARCH_URL=
-OPENSEARCH_ADMIN=
-OPENSEARCH_PASSWORD=
-
-# Administer
-ADMIN_USERNAME=
-ADMIN_PASSWORD=
-
-# Logging
-LOG_LEVEL=
 ```
 ### Run Docker
 ```
@@ -146,12 +135,11 @@ docker-compose up -d
 ```
 ### Frontend
 ```
-$ git clone https://github.com/2024-Summer-Bootcamp-TeamJ/Frontend.git
+$ git clone https://github.com/Team-Formation-Lap/Frontend.git
 ```
 ### Install
 ```
 yarn install
-yarn add
 ```
 
 ### Run
@@ -352,19 +340,19 @@ yarn dev
 <tr>
 <th>Profiles</th>
 <td width="100" align="center">
-<a href="https://github.com/devwoon">
-<img src="src="./수진.png" width="85" height="120">
+
+<img src="./sujin.png" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/Shin-Sujin">
-<img src="./수연.png" width="85" height="120">
-</a>
+
+<img src="./suyeon.png" width="85" height="120">
+
 </td>
 <td width="100" align="center">
-<a href="https://github.com/Shinsungwoo21">
-<img src="./로찬.png" width="85" height="120">
-</a>
+
+<img src="./rochan.png" width="85" height="120">
+
 </td>
 
 </tr>
