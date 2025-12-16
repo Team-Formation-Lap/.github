@@ -353,69 +353,42 @@ yarn dev
 <th>Profiles</th>
 <td width="100" align="center">
 <a href="https://github.com/devwoon">
-<img src="https://github.com/user-attachments/assets/0d51417b-e814-443f-aca5-46bbbdb5e996" width="85" height="120">
+<img src="src="./수진.png" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Shin-Sujin">
-<img src="https://github.com/user-attachments/assets/b6a67a45-a508-4eec-b84e-2cd7cd7827c6" width="85" height="120">
+<img src="./수연.png" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Shinsungwoo21">
-<img src="https://github.com/user-attachments/assets/b1a5a5c4-525a-4a42-b619-ffaefc4fce88" width="85" height="120">
+<img src="./로찬.png" width="85" height="120">
 </a>
 </td>
-<td width="100" align="center">
-<a href="https://github.com/bong-u">
-<img src="https://github.com/user-attachments/assets/3cdccfc5-66c6-4440-bea8-f3c1e6aba53f" width="85" height="120">
-</a>
-</td>
-<td width="100" align="center">
-<a href="https://github.com/yksoo00">
-<img src="https://github.com/user-attachments/assets/80dea79c-ce19-40e2-9453-8d9ac04d3b5c" width="85" height="120">
-</a>
-</td>
-<td width="100" align="center">
-<a href="https://github.com/Boseong0902">
-<img src="https://github.com/user-attachments/assets/2dc73612-ee89-45c8-8d17-ab8a5d922080" width="85" height="120">
-</a>
-</td>
+
 </tr>
 <tr>
 <th>Name</th>
-<td width="100" align="center">장정운</td>
 <td width="100" align="center">신수진</td>
-<td width="100" align="center">신성우</td>
-<td width="100" align="center">손봉우</td>
-<td width="100" align="center">연경수</td>
-<td width="100" align="center">박보성</td>
+<td width="100" align="center">박수연</td>
+<td width="100" align="center">송새로찬</td>
+
 </tr>
 <tr>
 <th>Position</th>
 <td width="150" height="20" align="center">
 Team Leader<br>
 Frontend<br>
-DevOps<br>
-</td>
-<td width="150" align="center">
-Frontend<br>
-DevOps<br>
-</td>
-<td width="150" align="center">
-Frontend
+
 </td>
 <td width="150" align="center">
 Backend<br>
-DevOps
+
 </td>
 <td width="150" align="center">
 Backend<br>
-DevOps
-</td>
-<td width="150" align="center">
-Backend<br>
-DevOps
+
 </td>
 </tr>
 </thead>
