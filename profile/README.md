@@ -1,12 +1,12 @@
 
-# <p align = center> 2025 한국공학대전 우수상 <p>
+# <p align = center>🏆 2025 한국공학대전 우수상 수상작 🏆<p> 
+
 ### <p align = center> &nbsp;&nbsp;&nbsp;&nbsp; <br><img width=40%, height=25%, marginTop=10, src="./IntelliView.svg"><br><br><br> &nbsp;&nbsp;&nbsp;🖥️ AI 면접관과 함께하는 모의면접 서비스 🖥️ <p> 
-##### <p align = center> URL : https://forest-of-thoughts.site <p>
+##### <p align = center> URL : https://expo.tukorea.ac.kr/2025/work/84 <p>
 <br>
 
 
 ## 📌 Table of Contents
-- [Medium](#-Medium)
 - [Demo](#-Demo)
 - [System Architecture](#-System-Architecture)
 - [Tech stack](#-Tech-stack)
@@ -19,22 +19,36 @@
 
 <br>
 
-## 📋 Medium
-  🔖 [말해봐요 고민의 숲](https://medium.com/@bong.u.dev/2024-siliconvalley-summer-bootcamp-%EB%A7%90%ED%95%B4%EB%B4%90%EC%9A%94-%EA%B3%A0%EB%AF%BC%EC%9D%98-%EC%88%B2-b539ba51a814)
-
 </br>
 
-## 🎥 Demo
-|**로그인 페이지**|**멘토 선택 페이지**|
-|:-------------------:|:---------:|
-|<img width="390" height="220" alt="Login Page" src="https://github.com/user-attachments/assets/153569c2-28ad-4c1c-bd36-819c3902eae1">|<img width="390" height="220" alt="Mentor Page" src="https://github.com/user-attachments/assets/c239ffcb-94aa-4794-bf12-25a3a8712852">|
-|**오은양 멘토링 페이지**|**백곰원 멘토링 페이지**|
-|<img width="390" height="220" alt="Mentoring Page1" src="https://github.com/user-attachments/assets/a557c38d-b122-4d8e-8ab3-d58996b18cb8">|<img width="390" height="220" alt="Mentoring Page2" src="https://github.com/user-attachments/assets/0c57abe6-64f9-4de7-b3a0-931f54f6121c">|
-|**신문엽 멘토링 페이지**|**로딩 페이지**|
-|<img width="390" height="220" alt="Mentoring Page3" src="https://github.com/user-attachments/assets/b28773c6-abfc-4df3-93d5-3c8830a52a92">|<img width="390" height="220" alt="Loading Page" src="https://github.com/user-attachments/assets/03ba7993-b58d-4a9c-a597-af455ef6efd6">|
-|**처방전 페이지**|**마이 페이지**|
-|<img width="390" height="220" alt="Prescription Page" src="https://github.com/user-attachments/assets/0aa48400-c56d-4f66-ad31-c7cf7b7357e8">|<img width="390" height="220" alt="My Page" src="https://github.com/user-attachments/assets/1e9555ef-d92f-4ffb-b42b-46ca9e2ac2e1">|
 
+## 📹 Demo Video
+### 랜딩 페이지
+![영상요약](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/7138dce1-e181-4c0e-85e3-5d4f9bb81637)
+
+### 회원가입
+![구독페이지](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/3b0e74ba-38f2-4252-ba94-10224737c07c)
+
+### 로그인
+![시간대별요약](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/82cdd29e-ad97-45dc-a2a9-9373dfd9fbda)
+
+### 이력서 업로드
+![카테고리차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c36d2b1d-0644-49fc-bf7b-9459cad74646)
+
+### 면접 진행
+![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
+
+### 종합 피드백
+![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
+
+### 답변 피드백
+![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
+
+### 행동 피드백
+![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
+
+### 마이페이지
+![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
 
 
 ## 🚨 System Architecture
@@ -67,46 +81,6 @@
 ## 📙 API
 
 ![API](https://github.com/user-attachments/assets/ae098d61-ed7d-445b-95b2-c2253b70a8d1)
-
-
-## 🔬 Monitoring
-&nbsp;&nbsp;Grafana & Prometheus
-<table align="center" style="border-collapse: collapse;">
-   <tr>
-    <td colspan="2" align="center"><b>Docker Dashboard</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/b3e7a942-856f-407d-9c71-3bf8fe16bd90" alt="Docker Dashboard" style="width: 800px; height: 300px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Celery Dashboard</b></td>
-    <td align="center"><b>FastAPI Dashboard</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/18048a66-2988-467e-972b-5361deba062d" alt="Celery Dashboard" style="width: 400px; height: 200px;">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/4a7a534f-f7bc-40a0-b329-b1cca886ebce" alt="FastAPI Dashboard" style="width: 400px; height: 200px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Nginx Dashboard</b></td>
-    <td align="center"><b>RabbitMQ Dashboard</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/de1f834d-59f1-4409-9b44-6b4899112302" alt="Nginx Dashboard" style="width: 400px; height: 200px;">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/5560a6b9-2d14-4f65-aef7-b78fd6dbec98" alt="RabbitMQ Dashboard" style="width: 400px; height: 200px;">
-    </td>
-  </tr>
-</table>
-
-
 
 ## 🧑‍💻 How to Start
 ### Backend 
