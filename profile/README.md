@@ -1,7 +1,7 @@
 
 # <p align = center>🏆 2025 한국공학대전 우수상 수상작 🏆<p> 
 
-### <p align = center> &nbsp;&nbsp;&nbsp;&nbsp; <br><img width=40%, height=25%, marginTop=10, src="./IntelliView.svg"><br><br><br> &nbsp;&nbsp;&nbsp;🖥️ AI 면접관과 함께하는 모의면접 서비스 🖥️ <p> 
+### <p align = center> &nbsp;&nbsp;&nbsp;&nbsp; <br><img width=40%, height=25%, marginTop=10, src="./IntelliView.svg"><br><br><br> &nbsp;&nbsp;&nbsp;🖥️ AI 기반 비언어 행동 분석과 이력서 기반 질문 생성을 통한 맞춤형 모의 면접 서비스 🖥️ <p> 
 ##### <p align = center> URL : https://expo.tukorea.ac.kr/2025/work/84 <p>
 <br>
 
