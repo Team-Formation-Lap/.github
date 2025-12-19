@@ -24,16 +24,15 @@
 
 ## 📹 Demo Video
 ### 랜딩 페이지
-![영상요약](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/7138dce1-e181-4c0e-85e3-5d4f9bb81637)
+<img width="1512" height="858" alt="landing" src="https://github.com/user-attachments/assets/914a5ae2-abb0-40d0-9a42-f16a9504f9ad" />
 
 ### 회원가입
-![구독페이지](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/3b0e74ba-38f2-4252-ba94-10224737c07c)
+![signup](https://github.com/user-attachments/assets/326aceaf-3d5e-4373-80e2-34039e1a1755)
 
 ### 로그인
-![시간대별요약](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/82cdd29e-ad97-45dc-a2a9-9373dfd9fbda)
+![signin](https://github.com/user-attachments/assets/baf2ac61-45ea-4685-97e3-cb2f3fa09ab6)
 
 ### 이력서 업로드
-![카테고리차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c36d2b1d-0644-49fc-bf7b-9459cad74646)
 
 ### 면접 진행
 ![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
@@ -80,7 +79,7 @@
 
 ## 📙 API
 
-![API](https://github.com/user-attachments/assets/ae098d61-ed7d-445b-95b2-c2253b70a8d1)
+<img width="1179" height="750" alt="api" src="https://github.com/user-attachments/assets/3a535171-a83c-4a1f-bd50-59d2e8606559" />
 
 ## 🧑‍💻 How to Start
 ### Backend 
