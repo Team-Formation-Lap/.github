@@ -89,17 +89,22 @@ $ git clone https://github.com/Team-Formation-Lap/Backend.git
 ### env setting in the Backend folder
 * Backend/.env
 ```
-# mysql
-DATABASE_URL=
-MYSQL_ROOT_PASSWORD=
-MYSQL_DATABASE=
+SECRET_KEY=
 
-# CELERY
-CELERY_BROKER_URL=
+DB_USERNAME=
+DB_DATABASE=
+DB_USER_PASSWORD=
+DB_ROOT_PASSWORD=
+DB_HOST=
+DB_PORT=
 
-# openai
+AWS_ACCESS_KEY_ID = 
+AWS_SECRET_ACCESS_KEY =
+AWS_STORAGE_BUCKET_NAME = 
+AWS_S3_REGION_NAME =
+AWS_S3_SIGNATURE_VERSION =
+DEFAULT_FILE_STORAGE =
 OPENAI_API_KEY=
-GPT_MODEL=
 
 ```
 ### Run Docker
