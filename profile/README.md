@@ -33,6 +33,7 @@
 ![signin](https://github.com/user-attachments/assets/baf2ac61-45ea-4685-97e3-cb2f3fa09ab6)
 
 ### 이력서 업로드
+<img width="1512" height="858" alt="landing" marginTop=10, src="./resumeUpload.gif">
 
 ### 면접 진행
 ![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
