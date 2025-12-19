@@ -8,7 +8,7 @@
 
 ## 📌 Table of Contents
 - [Demo](#-Demo)
-- [System Architecture](#-System-Architecture)
+- [System Scenario](#-System-Scenario)
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
 - [API](#-API)
@@ -36,7 +36,7 @@
 <img width="1512" height="858" alt="landing" marginTop=10, src="./resumeUpload.gif">
 
 ### 면접 진행
-![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
+![interview](https://github.com/user-attachments/assets/76bc4a58-4bdf-4bdf-bc25-821452f4745a)
 
 ### 종합 피드백
 <img width="1512" height="858" alt="landing" marginTop=10, src="./com_feedback.gif">
@@ -47,13 +47,11 @@
 ### 행동 피드백
 <img width="1512" height="858" alt="landing" marginTop=10, src="./beh_feedback.gif">
 
-### 마이페이지
-![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
 
 
-## 🚨 System Architecture
+## 🚨 System Scenario
 
-<img alt="system architecture" src="https://github.com/user-attachments/assets/bd544a39-1b21-42c8-8d62-da1de315e4bc">
+<img width="829" height="397" alt="system" src="https://github.com/user-attachments/assets/1f2158d9-450c-4b31-bb17-52a3b8096ab6" />
 
 
 
@@ -75,7 +73,7 @@
 
 ## 💎 ERD
 
-<img width="1290" height="500" alt="Datebase" src="https://github.com/user-attachments/assets/39841802-99ca-4f0a-9421-a1b2953ba81c">
+<img width="1512" height="858" alt="landing" marginTop=10, src="./erd.png">
 
 
 ## 📙 API
