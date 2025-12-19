@@ -39,13 +39,13 @@
 ![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
 
 ### 종합 피드백
-![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
+<img width="1512" height="858" alt="landing" marginTop=10, src="./com_feedback.gif">
 
 ### 답변 피드백
-![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
+<img width="1512" height="858" alt="landing" marginTop=10, src="./ans_feedback.gif">
 
 ### 행동 피드백
-![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
+<img width="1512" height="858" alt="landing" marginTop=10, src="./beh_feedback.gif">
 
 ### 마이페이지
 ![채널별 차트](https://github.com/2023-Winter-Bootcamp-Team-N/2023WB-Team-N/assets/154861396/c1adf2f5-bee9-400e-8608-187d9d4a8978)
